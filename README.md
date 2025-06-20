@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 你好，我是 Sonic
 
-<!--
-**SonicHsu/SonicHsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 前端工程師 / 視覺開發者  
 
-Here are some ideas to get you started:
+我專注於前端框架 React ，我重視乾淨程式碼、易維護架構，持續學習程式架構設計與最佳實踐。
+同時，我也具備 3D 動畫與虛擬場景開發能力，能融合程式與視覺化技術，打造高品質互動體驗。
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 技術專長  
+
+### 前端開發  
+- 框架: React 
+- 語言: TypeScript, JavaScript, HTML5, CSS3 (TailwindCSS)  
+
+### DevOps & 工具  
+- 版本控制: Git (GitHub, GitLab, Gitea)  
+- 建置工具: Webpack, Vite  
+
+### 可視化 / 3D 技術  
+- Unreal Engine (虛擬場景)  
+- Blender, 3dsMax 
+---
+
+
