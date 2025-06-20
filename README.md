@@ -33,22 +33,3 @@
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
 </p>
 
----
-
-## 📝 專案實作  
-
-我正在開發記帳網站，包含以下功能：  
-
-- React 架構搭配 TypeScript 重構完成  
-- 使用 TailwindCSS 完成排版  
-- Firebase 登入（Google 登入 / 訪客登入）、資料庫儲存  
-- 日期選擇器：ReactDatePicker  
-- 月視圖 / 日視圖：支出收入統整、交易紀錄  
-- Chart.js 月統計柱狀圖、分類統計  
-- Dialog 創建 / 編輯 / 快速瀏覽交易紀錄  
-- RWD：支援手機、平板、電腦  
-
----
-
-## 🌱 正在學習  
-- 前端架構最佳實踐  
