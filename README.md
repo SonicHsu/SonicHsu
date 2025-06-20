@@ -14,8 +14,8 @@
 - 語言: TypeScript, JavaScript, HTML5, CSS3 (TailwindCSS)  
 
 #### DevOps & 工具  
-- 版本控制: Git (GitHub, GitLab, Gitea)  
-- 建置工具: Webpack, Vite  
+- 版本控制: Git (GitHub)  
+- 建置工具: Vite  
 
 #### 可視化 / 3D 技術  
 - Unreal Engine (虛擬場景)  
@@ -39,6 +39,4 @@
 ---
 
 ## 🌱 正在學習  
-- Redux 狀態管理  
 - 前端架構最佳實踐  
-- 工業數位孿生與 3D 視覺化整合
