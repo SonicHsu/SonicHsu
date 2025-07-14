@@ -10,7 +10,7 @@
 ## 💻 技術專長  
 
 #### 前端開發  
-- 框架: React, Vue積極投入學習轉換中
+- 框架: React, (Vue積極投入學習轉換中)
 - 語言: TypeScript, JavaScript, HTML5, CSS3 (TailwindCSS)  
 
 #### DevOps & 工具  
